@@ -1,5 +1,5 @@
 name: Tr-BookNotice
 main: TrueToneTeam\BookNotice\BookNotice
 api: [5.0.0]
-version: "1.0.0-Preview"
+version: "1.0.0"
 author: NeroLuna
